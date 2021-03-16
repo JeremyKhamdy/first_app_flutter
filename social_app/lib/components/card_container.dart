@@ -88,7 +88,7 @@ class CardContainer extends StatelessWidget {
                       //   ],
                       // )
                       Text(
-                        'rrrrr'
+                        'rrrrr',
                         style: TextStyle(),
                       ),
                     ],
